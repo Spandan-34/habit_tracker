@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleHabitTracker</string>
+    <string-array name="frequency_options">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+
+</resources>
